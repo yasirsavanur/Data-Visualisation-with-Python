@@ -4,9 +4,9 @@
 
 This course centers around Python and its libraries, including Matplotlib, Plotly, Seaborn, and Folium. We use these libraries to explore projects that involve wrangling complex data and presenting it through dashboards and visualizations in a manner that makes sense to people. The following datasets were used to study and visualize the trends, patterns, and relationships within the given domain of interest:
 
-- [US Airline Reporting Carrier On-Time Performance Dataset 1987 - 2020] (https://github.com/yasirsavanur/Data-Visualisation-with-Python/tree/main/US%20Domestic%20Flight%20Performance%20Dataset)
-- [Canada Immigration Dataset 1980 - 2013] (https://github.com/yasirsavanur/Data-Visualisation-with-Python/tree/main/Canada%20Immigration%20Dataset) 
-- [San Francisco Police Department Crime/Incidents 2016] (https://github.com/yasirsavanur/Data-Visualisation-with-Python/tree/main/SFPD%20Crime%20Report%202016)
+- US Airline Reporting Carrier On-Time Performance Dataset 1987 - 2020
+- Canada Immigration Dataset 1980 - 2013
+- San Francisco Police Department Crime/Incidents 2016
 
 
 ### Key Topics
