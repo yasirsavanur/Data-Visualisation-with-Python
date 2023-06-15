@@ -48,7 +48,7 @@ This course centers around Python and its libraries, including Matplotlib, Plotl
 
 ## Certificates
 
-To verify the certificates, click the images to follow the links.
+To verify the certificates, click on the images to be redirected to the corresponding links.
 
  <p align="middle">
   <a href="https://www.coursera.org/account/accomplishments/verify/772R323E57TW"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~772R323E57TW/CERTIFICATE_LANDING_PAGE~772R323E57TW.jpeg" height="430"></a>
