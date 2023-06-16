@@ -13,6 +13,7 @@ This course centers around Python and its libraries, including Matplotlib, Plotl
 
 - Introduction to Data Visualization Tools
 - Basic and Specialized Visualization Tools
+- Matplotlib architecture - Backend layer, Scripting layer & Artist layer
 - Advanced Visualizations and Geospatial Data
 - Dashboard creation using Plotly Dash.
 
